@@ -63,7 +63,7 @@
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
         "collection": "electronics",
-        "products_to_show": 8,
+        "products_to_show": 4,
         "horizontal_scroll": true,
         "show_view_all": true,
         "show_divider": false,
