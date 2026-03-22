@@ -15,11 +15,10 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/pngtree-d-rendering-of-shopping-bags-and-online-store-on-smartphone-against-image_3719673.jpg",
-            "image_mobile": "shopify://shop_images/f8e175ef-afbf-42f7-926b-0cc4a8f6d95c.jpg",
+            "image": "shopify://shop_images/f8e175ef-afbf-42f7-926b-0cc4a8f6d95c_defcef75-0d7d-43bd-8828-747ec1823de2.jpg",
             "image_position": "center center",
             "text_box_position": "bottom-right",
-            "subheading": "",
+            "subheading": "Your Modern Souq for Smart Electronics",
             "subheading_size": "h5",
             "heading": "",
             "heading_size": "h0",
