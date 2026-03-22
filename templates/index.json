@@ -16,6 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/pngtree-d-rendering-of-shopping-bags-and-online-store-on-smartphone-against-image_3719673.jpg",
+            "image_mobile": "shopify://shop_images/f8e175ef-afbf-42f7-926b-0cc4a8f6d95c.jpg",
             "image_position": "center center",
             "text_box_position": "bottom-right",
             "subheading": "",
